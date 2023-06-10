@@ -5,7 +5,7 @@
 <br>
 Lichess-Game-Readme
 </h1>
-<h3 align="center">📍 Play with Readme: Make Lichess Yours!</h3>
+<h3 align="center">📍 Show off your most recent game on Lichess.org through your GitHub readme</h3>
 <h3 align="center">🚀 Developed with the software and tools below.</h3>
 <p align="center">
 
@@ -21,25 +21,16 @@ Lichess-Game-Readme
 ## 📚 Table of Contents
 - [📚 Table of Contents](#-table-of-contents)
 - [📍Overview](#-introdcution)
-- [🔮 Features](#-features)
 - [⚙️ Project Structure](#project-structure)
-- [🧩 Modules](#modules)
 - [🏎💨 Getting Started](#-getting-started)
-- [🗺 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [🪪 License](#-license)
-- [📫 Contact](#-contact)
-- [🙏 Acknowledgments](#-acknowledgments)
 
 ---
 
 ## 📍Overview
 
-Lichess-Game-Readme is a GitHub project that enables users to quickly create detailed game and opening readme files for a variety of chess variants. The project is designed to save
-
-## 🔮 Feautres
-
-> `[📌  INSERT-PROJECT-FEATURES]`
+The Chess.com-Game-Readme GitHub project allows you to display your most recent lichess game on your github readme page, sharing with everyone how your games are going.
 
 ---
 
@@ -50,16 +41,12 @@ Lichess-Game-Readme is a GitHub project that enables users to quickly create det
 ```bash
 repo
 ├── app.py
-├── card.html.j2
 ├── LICENSE
 ├── __pycache__
 │   ├── app.cpython-311.pyc
 │   └── app.cpython-39.pyc
 ├── README.md
 ├── requirements.txt
-├── templates
-│   └── card.html.j2
-├── test.ipynb
 └── vercel.json
 
 2 directories, 10 files
@@ -67,26 +54,6 @@ repo
 ---
 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-src-open.svg" width="80" />
-
-## 💻 Modules
-<details closed><summary>Root</summary>
-
-| File         | Summary                              | Module       |
-|:-------------|:-------------------------------------|:-------------|
-| test.ipynb   | Prompt too long to generate summary. | test.ipynb   |
-| app.py       | Error fetching summary.              | app.py       |
-| card.html.j2 | Error fetching summary.              | card.html.j2 |
-
-</details>
-
-<details closed><summary>Templates</summary>
-
-| File         | Summary                 | Module                 |
-|:-------------|:------------------------|:-----------------------|
-| card.html.j2 | Error fetching summary. | templates/card.html.j2 |
-
-</details>
-<hr />
 
 ## 🚀 Getting Started
 
@@ -97,40 +64,19 @@ Before you begin, ensure that you have the following prerequisites installed:
 
 ### 💻 Installation
 
-1. Clone the Lichess-Game-Readme repository:
-```sh
-git clone https://github.com/KenWuqianghao/Lichess-Game-Readme
-```
+1. Fork this repo
 
-2. Change to the project directory:
-```sh
-cd Lichess-Game-Readme
-```
+2. Go to vercel, create a project using the forked github repo
 
-3. Install the dependencies:
-```sh
-[INSERT-INSTALL-GUIDE-HERE]
-```
+3. Provide environment variable: username
+
+4. Deploy and enjoy
 
 ### 🤖 Using Lichess-Game-Readme
 
 ```sh
-[INSERT-RUN-GUIDE-HERE]
+<img src="link-to-your-vercel-app/?">
 ```
-
-### 🧪 Running Tests
-```sh
-#run tests
-```
-
-<hr />
-
-## 🛠 Future Development
-- [X] [📌  COMPLETED-TASK]
-- [ ] [📌  INSERT-TASK]
-- [ ] [📌  INSERT-TASK]
-
-
 ---
 
 ## 🤝 Contributing
@@ -159,13 +105,6 @@ The project maintainers will review your changes and provide feedback or merge t
 ## 🪪 License
 
 This project is licensed under the `[📌  INSERT-LICENSE-TYPE]` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
-
----
-
-## 🙏 Acknowledgments
-
-[📌  INSERT-DESCRIPTION]
-
 
 ---
 
