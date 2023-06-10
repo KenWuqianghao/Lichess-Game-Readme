@@ -60,7 +60,7 @@ repo
 ### ✅ Prerequisites
 
 Before you begin, ensure that you have the following prerequisites installed:
-> `[📌  INSERT-PROJECT-PREREQUISITES]`
+> `Register an account on vercel`
 
 ### 💻 Installation
 
