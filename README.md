@@ -65,10 +65,15 @@ Before you begin, ensure that you have the following prerequisites installed:
 ### 💻 Installation
 
 1. Fork this repo
+<img width="149" alt="Screenshot 2023-06-10 at 04 41 18" src="https://github.com/KenWuqianghao/Lichess-Game-Readme/assets/20444505/d2f9b2bb-c11e-4557-9f63-a945c4eb6553">
 
-2. Go to vercel, create a project using the forked github repo
+2. Go to vercel, create a proj![Uploading Screenshot 2023-06-10 at 04.41.18.png…]()
+ect using the forked github repo
+<img width="1512" alt="Screenshot 2023-06-10 at 04 41 30" src="https://github.com/KenWuqianghao/Lichess-Game-Readme/assets/20444505/15f336b6-e85a-4b81-959a-cdc713975189">
+<img width="1512" alt="Screenshot 2023-06-10 at 04 41 41" src="https://github.com/KenWuqianghao/Lichess-Game-Readme/assets/20444505/3cb75d0c-a3b7-4b17-82cb-abb6cb224d9e">
 
 3. Provide environment variable: username
+<img width="1512" alt="Screenshot 2023-06-10 at 04 42 08" src="https://github.com/KenWuqianghao/Lichess-Game-Readme/assets/20444505/f13dc021-2b06-4ab7-847a-b141cf4139ce">
 
 4. Deploy and enjoy
 
